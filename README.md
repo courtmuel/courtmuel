@@ -18,7 +18,7 @@ Working with game design using Java and Java Swing
 ### 📫 How to reach me: 
 [!Linkedin Badge] 
 
-[![Gmail Badge] (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] (https://www.linkedin.com/in/courtneyamueller/)
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
