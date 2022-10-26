@@ -16,7 +16,6 @@ How to work together with multiple people (3+) on a software development project
 Working with game design using Java and Java Swing
 
 ### 📫 How to reach me: 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/courtneyamueller/)
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
