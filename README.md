@@ -12,6 +12,7 @@ I am currently trying to improve my Python, SQL and C programming. Java is my mo
 - Currently building a compiler from scratch using C and GAS language(s)
 - Learning how to work with multiple people (3+) on a software development project
 - Working with game design using Java and Java Swing
+- Working with HTML to make low level game designs
 
 ### 📫 How to reach me: 
 
