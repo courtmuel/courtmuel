@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Courtney Mueller
 
-I am currently a full-time student at New Mexico State University majoring in Computer Science. I live in Las Cruces, New Mexico and have been here since 2014.
-
-I started my journey into computational sciences in May of 2020 and have become completely immeresed into the field of study and have found each semseter becoming increasingly more interesting. I am excited to continue building my coding and practical skills, as well as improve my GitHub and professional profile. 
+I am currently a full-time student at New Mexico State University majoring in Computer Science. I started my journey into computational sciences in May of 2020 and have become completely immeresed into the field of study and have found each semseter becoming increasingly more interesting. I am excited to continue building my coding and practical skills, as well as improve my GitHub and professional profile. 
 
 
 ### 🔭 I’m focusing on 👨‍💻
