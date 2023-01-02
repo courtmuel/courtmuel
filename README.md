@@ -18,5 +18,5 @@ I am currently trying to improve my Python, SQL and C programming. Java is my mo
 
 😄 Pronouns: She/Her/Hers
 
-⚡ Fun fact --> I have been playing video games since I was 5 years old and have been playing competitive esports for the past year and a half.
+⚡ Fun fact --> I have been playing video games since I was 5 years old and have been playing competitive esports for the past 2 years.
 
